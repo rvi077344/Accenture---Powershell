@@ -1,2 +1,2 @@
-# Accenture---Powershell
+# Accenture Powershell Training
 Accenture Powershell Training 
